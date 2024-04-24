@@ -1,0 +1,19 @@
+{
+  "options.fsb-interop.title": "کونفيݢوراسي FabricSkyBoxes Interop",
+  "options.fsb-interop.interoperability": "کبوليهأوڤراسيان",
+  "options.fsb-interop.interoperability.tooltip": "جک ددايکن⹁ مود اکن چوبا ممباچ/ممواتکن لاڠيت ترسواي MCPatcher/OptiFine.",
+  "options.fsb-interop.mode": "مود کبوليهأوڤراسيان",
+  "options.fsb-interop.mode.tooltip": "- اصلي: مڠݢوناکن ڤلقساناءن سمولا OptiFine.\n- ڤنوکرن: منوکر فورمت OptiFine کڤد جنيس لاڠيت FabricSkyBoxes سديا اد.",
+  "options.fsb-interop.mode.native": "اصلي",
+  "options.fsb-interop.mode.conversion": "ڤنوکرن",
+  "options.fsb-interop.process_optifine": "ڤروسيس OptiFine",
+  "options.fsb-interop.process_optifine.tooltip": "جک ددايکن⹁ مود اکن چوبا ممباچ/ممواتکن لاڠيت ترسواي OptiFine.",
+  "options.fsb-interop.process_mcpatcher": "ڤروسيس MCPatcher",
+  "options.fsb-interop.process_mcpatcher.tooltip": "جک ددايکن⹁ مود اکن چوبا ممباچ/ممواتکن لاڠيت ترسواي MCPatcher.",
+  "options.fsb-interop.debug_mode": "مود ڽهڤڤيجت",
+  "options.fsb-interop.debug_mode.tooltip": "جک ددايکن⹁ مود اکن مڠلوارکن حاصيل ڤنوکرن دان لوݢ رالت دالم ڤروسيس ڤنوکرن.",
+  "options.fsb-interop.prefer_fsb_native": "لبيه ڤيليه لاڠيت FSB اصلي",
+  "options.fsb-interop.prefer_fsb_native.tooltip": "جک ددايکن⹁ مود تيدق اکن ممڤروسيس/منوکر لاڠيت MCPatcher/OptiFine جک لاڠيت FSB دکسن.",
+  "options.fsb-interop.dump_data": "بواڠ داتا",
+  "options.fsb-interop.dump_data.tooltip": "بواڠ لاڠيت يڠ دتوکر درڤد FSB Interop ک\".minecraft/fsb-interop-dump\" دان بوک ديريکتوري. (نوتا: ديريکتوري اصل اکن دڤادمکن.)"
+}

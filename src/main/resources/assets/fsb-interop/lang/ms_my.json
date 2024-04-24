@@ -1,0 +1,19 @@
+{
+  "options.fsb-interop.title": "Konfigurasi FabricSkyBoxes Interop",
+  "options.fsb-interop.interoperability": "Kebolehoperasian",
+  "options.fsb-interop.interoperability.tooltip": "Jika didayakan, mod akan cuba membaca/memuatkan Langit Tersuai MCPatcher/OptiFine.",
+  "options.fsb-interop.mode": "Mod Kebolehoperasian",
+  "options.fsb-interop.mode.tooltip": "- Asli: Menggunakan pelaksanaan semula OptiFine.\n- Penukaran: Menukar format OptiFine kepada jenis langit FabricSkyBoxes sedia ada.",
+  "options.fsb-interop.mode.native": "Asli",
+  "options.fsb-interop.mode.conversion": "Penukaran",
+  "options.fsb-interop.process_optifine": "Proses OptiFine",
+  "options.fsb-interop.process_optifine.tooltip": "Jika didayakan, mod akan cuba membaca/memuatkan Langit Tersuai OptiFine.",
+  "options.fsb-interop.process_mcpatcher": "Proses MCPatcher",
+  "options.fsb-interop.process_mcpatcher.tooltip": "Jika didayakan, mod akan cuba membaca/memuatkan Langit Tersuai MCPatcher.",
+  "options.fsb-interop.debug_mode": "Mod Nyahpepijat",
+  "options.fsb-interop.debug_mode.tooltip": "Jika didayakan, mod akan mengeluarkan hasil penukaran dan log ralat dalam proses penukaran.",
+  "options.fsb-interop.prefer_fsb_native": "Lebih Pilih Langit FSB Asli",
+  "options.fsb-interop.prefer_fsb_native.tooltip": "Jika didayakan, mod tidak akan memproses/menukar langit MCPatcher/OptiFine jika langit FSB dikesan.",
+  "options.fsb-interop.dump_data": "Buang Data",
+  "options.fsb-interop.dump_data.tooltip": "Buang langit yang ditukar daripada FSB Interop ke \".minecraft/fsb-interop-dump\" dan buka direktori. (Nota: Direktori asal akan dipadamkan.)"
+}
